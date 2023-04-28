@@ -7,6 +7,7 @@ st is a simple terminal emulator for X which sucks less. It's one of suckless ut
 As this is my own build, I've added some patches to it.
 
 - [anysize](https://st.suckless.org/patches/anysize/)
+- [delkey](https://st.suckless.org/patches/delkey/)
 
 ## Requirements
 
