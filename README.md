@@ -9,6 +9,7 @@ As this is my own build, I've added some patches to it.
 - [anysize](https://st.suckless.org/patches/anysize/)
 - [delkey](https://st.suckless.org/patches/delkey/)
 - [scrollback](https://st.suckless.org/patches/scrollback/). Edited: Added st-scrollback-ringbuffer-0.8.5.diff only.
+- [gruvbox theme](https://github.com/morhetz/gruvbox)
 
 ## Requirements
 
